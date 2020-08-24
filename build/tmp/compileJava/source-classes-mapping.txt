@@ -1,0 +1,17 @@
+advisor/LocalHttpClient.java
+ advisor.LocalHttpClient
+advisor/Main.java
+ advisor.Main
+advisor/MusicEntity.java
+ advisor.MusicEntity
+advisor/SpotifyList.java
+ advisor.SpotifyList
+advisor/Controller.java
+ advisor.Controller
+ advisor.Controller$1
+advisor/Viewer.java
+ advisor.Viewer
+advisor/Model.java
+ advisor.Model
+advisor/LocalHttpServer.java
+ advisor.LocalHttpServer
